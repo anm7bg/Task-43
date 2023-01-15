@@ -1,4 +1,4 @@
-document.title = "No new messages"
+// document.title = "No new messages"
 var myFunc = function() {
     // alert('After 3 seconds of page load!');
     document.title = "One new message"
